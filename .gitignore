@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+# re-include files and directories
+!.gitignore
+!*/
+!*.html
+
